@@ -2,11 +2,15 @@
 
 Un juego web caótico en Canvas 2D hecho con puro HTML5, Vanilla JavaScript y CSS, combinando recolección arcade, plataformas vertical infinito, parkour con bunny hop y un modo shooter por oleadas.
 
+## 🎮 Jugar en línea
+
+[ jugar HachiUwu en itch.io ](https://f0id5lay3r2099.itch.io/hachiuwu)
+
 ## ⚠️ Aviso legal y de atribución
 
 Este proyecto incluye varios recursos externos y referencias culturales, y no pretende afirmar ser propiedad de terceros. En particular:
 
-- Los efectos de sonido de las armas provienen de recursos aleatorios de internet que no se recuerdan exactamente de qué página se sacaron; estos sonidos no son originales del proyecto ni han sido creados específicamente para este juego.
+- Los efectos de sonido de las armas provienen de recursos aleatorios de internet que no se recuerdan exactamente de qué página se sacaron; estos sonidos no son originales del proyecto ni han sido creados específicamente para él.
 - La música y la sensación general de las armas/combate están inspiradas o basadas en la estética y estilo de Hotline Miami; no es una versión oficial ni una reproducción autorizada del material original.
 - Los sprites, personajes y otros gráficos incluidos en el juego pertenecen o están basados en assets de otras compañías, estudios o creadores externos.
 - Este proyecto es un fan game / homenaje de estilo retro y no busca apropiarse del contenido original de terceros.
@@ -33,7 +37,7 @@ Este proyecto incluye varios recursos externos y referencias culturales, y no pr
    - Sistema de rondas incrementales con spawn de enemigos armados.
    - Apuntado con ratón o joystick táctil en 360°.
    - Regeneración de vida (HP) al matar cuerpo a cuerpo o tras 4s sin recibir daño.
-   - Drops de armas y cajas de munición procedurales.
+   - Drops de armas y cajas de munición.
 
 ---
 
