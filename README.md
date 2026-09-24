@@ -1,6 +1,16 @@
 # NOT IMPORTANT 🫠
 
-Un juego web caótico en Canvas 2D hecho con puro HTML5, Vanilla JavaScript y CSS, combinando recolección arcade, plataformas vertical infinito, parkour con bunny hop y un modo shooter por oleadas con estética retro pixel art, personajes cursed (Hachi, Natsuki, Usagi y Plusheen) y screamer/jakeo de broma incluido.
+Un juego web caótico en Canvas 2D hecho con puro HTML5, Vanilla JavaScript y CSS, combinando recolección arcade, plataformas vertical infinito, parkour con bunny hop y un modo shooter por oleadas.
+
+## ⚠️ Aviso legal y de atribución
+
+Este proyecto incluye varios recursos externos y referencias culturales, y no pretende afirmar ser propiedad de terceros. En particular:
+
+- Los efectos de sonido de las armas provienen de recursos aleatorios de internet que no se recuerdan exactamente de qué página se sacaron; estos sonidos no son originales del proyecto ni han sido creados específicamente para este juego.
+- La música y la sensación general de las armas/combate están inspiradas o basadas en la estética y estilo de Hotline Miami; no es una versión oficial ni una reproducción autorizada del material original.
+- Los sprites, personajes y otros gráficos incluidos en el juego pertenecen o están basados en assets de otras compañías, estudios o creadores externos.
+- Este proyecto es un fan game / homenaje de estilo retro y no busca apropiarse del contenido original de terceros.
+- Si algún dueño de un asset, sprite, música o sonido desea que se retire o se reemplace ese material, puede avisar y se revisará lo necesario.
 
 ---
 
@@ -141,4 +151,4 @@ Y luego abre `http://localhost:8000`.
 
 ## 🧩 Resumen
 
-`juegokiutkawaiuwu` es un proyecto de juego web caótico, rápido, con varios modos, humor absurdo, referencias meme y estética retro. Está pensado para jugar en navegador con controles simples, personajes desbloqueables y una capa extra de chaos con cheats y screamer.
+`juegokiutkawaiuwu` es un proyecto de juego web caótico, rápido, con varios modos, humor absurdo, referencias meme y estética retro. Está pensado para jugar en navegador con controles simples.
